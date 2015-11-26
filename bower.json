@@ -1,0 +1,28 @@
+{
+  "name": "airwave",
+  "description": "front end for airwave",
+  "main": "index.js",
+  "authors": [
+    "Luo Yicheng <ethanluoyc@gmail.com> (ethanluoyc.github.io)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "airwave"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "pagedown": "~1.1.0",
+    "font-awesome": "~4.4.0",
+    "codemirror": "~5.8.0"
+  }
+}

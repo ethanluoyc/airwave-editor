@@ -1,0 +1,38 @@
+{
+  "name": "airwave",
+  "version": "1.0.0",
+  "description": "front end for airwave",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react": "^6.1.4",
+    "babelify": "^7.2.0",
+    "react": "^0.14.2",
+    "react-bootstrap": "^0.27.3"
+  },
+  "devDependencies": {
+    "bower": "^1.6.5",
+    "browserify": "^12.0.1",
+    "coffeeify": "^1.1.0",
+    "debowerify": "^1.3.1",
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "lodash": "^3.10.1",
+    "lodash.assign": "^3.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luo Yicheng <ethanluoyc@gmail.com> (ethanluoyc.github.io)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  }
+}

@@ -1,0 +1,10 @@
+#in {
+  width: 45%;
+  position: relative;
+  float: left; }
+
+div.CodeMirror {
+  height: 500px; }
+
+#preview-panel {
+  height: 500px; }
